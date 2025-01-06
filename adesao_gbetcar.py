@@ -1,5 +1,4 @@
 import streamlit as st
-import vega_datasets as vd
 import pandas as pd
 import numpy as np
 import plotly.express as px
